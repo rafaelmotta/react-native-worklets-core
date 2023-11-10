@@ -14,7 +14,7 @@
   // JSC
   #include <React-jsc/JSCRuntime.h>
 #else
-  #include <jsc/JSCRuntime.h>
+  #include <React_jsc/JSCRuntime.h>
 #endif
 
 namespace RNWorklet {
